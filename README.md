@@ -98,18 +98,6 @@ A collection of my projects, experience, and skills as a front-end developer.
 
 Experiments and prototypes built with React Native, focused on product design, UX, and cross-platform mobile development.
 
-### 🔹 UI components & web interfaces
-
-Components, layouts, and interfaces built with React, Tailwind CSS, and attention to visual quality.
-
----
-
-## 📊 GitHub Stats
-
-![Saverio's GitHub stats](https://github-readme-stats.vercel.app/api?username=INSERT_YOUR_USERNAME\&show_icons=true\&theme=transparent\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INSERT_YOUR_USERNAME\&layout=compact\&theme=transparent\&hide_border=true)
-
 ---
 
 ## 🌱 Beyond code
