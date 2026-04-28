@@ -24,20 +24,6 @@ More specifically, I contribute to the development of:
 
 ---
 
-## 🧠 My approach
-
-I like building products that are not only visually clean, but also:
-
-* easy to use;
-* performant;
-* maintainable;
-* accessible;
-* designed to solve real problems.
-
-I strongly believe in the combination of **interface design**, **technical quality**, and **real-world software impact**.
-
----
-
 ## 🛠️ Tech stack
 
 ### Front-end
